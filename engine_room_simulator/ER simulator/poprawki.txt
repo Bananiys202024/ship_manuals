@@ -1,0 +1,34 @@
+1. Main engines system - prepare fresh water cooling system rozdzielenie -
+
+	Main engines fresh water inlet valves from auxiliary fresh water pump position should be set to OPEN
+	Main engines fresh water outlet valves to auxiliary fresh water pump position should be set to OPEN
+
+	Main engines fresh water inlet valves position should be set to OPEN
+	Main engines fresh water pumps inlet valves position should be set to OPEN
+
+2. Zrobi³em trochê kaszane w Start Main engines. Nie wy³¹cza³o siê pompy pomocniczej wody s³odkiej i Ÿle sformu³owa³em czynnoœci wy³¹czania pompy pomocniczej wody morskiej i podgrzewacza wody s³odkiej. Nie potrzeba równie¿ otwieraæ by-pasu podgrzewacza.  Powinno byæ :
+
+4.b Start Main engines
+RPM  potentiometer position should be set to  IDLE value
+LOAD ADJUSTMENT potentiometer position should be set to  ‘0’ position
+Revolution/pitch  lever position should be set to  “O”  
+Main engine no 1 START Button position should be set to ON
+Main engine no 2 START Button position should be set to ON
+Auxiliary sea water pump STOP switch position should be set to ON
+Auxiliary sea water pump  inlet valve position should be set to CLOSE
+Auxiliary sea water pump outlet valve position should be set to CLOSE
+Auxiliary sea water pump outlet valves before main engines position should be set to CLOSE
+Fresh water preheater position STOP switch should be set to ON 
+Auxiliary fresh water pump STOP switch position should be set to ON
+Auxiliary fresh water pump  inlet valve position should be set to CLOSE
+Auxiliary fresh water pump  outlet valve position should be set to CLOSE
+Fresh water preheater inlet valve position should be set to CLOSE
+Fresh water preheater outlet valve position should be set to CLOSE
+Main engines fresh water inlet valves from auxiliary fresh water pump position should be set to CLOSE
+Main engines fresh water outlet valves to auxiliary fresh water pump position should be set to CLOSE
+
+
+3. Trzeba chyba dodaæ "located on Console" bo chyba nie za bardzo wiadomo o co chodzi
+	6.a Main engine no 1 local start
+	LOCAL switch position located on Console should be set to ON 
+
